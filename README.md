@@ -6,7 +6,7 @@ Desenvolvi essa api rest somente com os endpoints para realização de CRUD sem 
 
 Criei um projeto com descrição e requisitos fictícios para organizar meu desenvolvimento.
 
-**O projeto ainda não está completo considerando a descrição e requisitos que me propus, entretando todos os conceitos vistos no curso foram aplicados até a presente versão**
+**O projeto ainda não está completo considerando a descrição e requisitos que me propus, entretanto todos os conceitos vistos no curso foram aplicados até a presente versão**
 
 ## Conceitos e Aprendizados
 <br>
