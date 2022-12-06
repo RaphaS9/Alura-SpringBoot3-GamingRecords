@@ -1,4 +1,6 @@
-# API rest com CRUD completo aplicando conceitos do curso de [Spring da Alura](https://www.alura.com.br/curso-online-spring-boot-3-desenvolva-api-rest-java)
+# API rest com CRUD completo aplicando conceitos do curso de Spring da Alura 
+
+[link do curso](https://www.alura.com.br/curso-online-spring-boot-3-desenvolva-api-rest-java)
 
 Desenvolvi essa api rest somente com os endpoints para realização de CRUD sem interface gráfica, a fim de aplicar os conceitos que aprendi no curso do professor [Rodrigo Ferreira](https://www.linkedin.com/in/rcaneppele/).
 
@@ -18,4 +20,4 @@ Cada jogador possui um email, nome, data de nascimento, cpf e endereço.
 
 A exemplo do que foi visto no curso, criei um quadro no trello para organizar o processo de criação e requisitos, que pode ser acessado aqui [quadro - gamingrecords](https://trello.com/b/nn5rTDqG/api-gamingrecords).
 
-![Quadro do trello](./readmeImgs/quadroTrello.png1)
+![Quadro do trello](./readmeImgs/quadroTrello.png)
