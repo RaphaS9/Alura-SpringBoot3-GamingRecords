@@ -17,7 +17,7 @@ Criei um projeto com descrição e requisitos fictícios para organizar meu dese
 *Quadro retirado do painel de apresentação do curso na [alura](https://www.alura.com.br/curso-online-spring-boot-3-desenvolva-api-rest-java)*
 
 ## Descrição
-Nome **fictício** da empresa GamingRecords.
+Nome **fictício** da empresa: GamingRecords.
 
 Sistema de controle de estoque de jogos que permite que eu possa adicionar, visualizar, editar e remover jogos do estoque. Os jogos podem ser alugados por jogadores o que removerá o jogo do estoque.
 
