@@ -2,11 +2,13 @@
 
 [link do curso](https://www.alura.com.br/curso-online-spring-boot-3-desenvolva-api-rest-java)
 
+[Certificado](./readmeImgs/certificado.pdf)
+
 Desenvolvi essa api rest somente com os endpoints para realização de CRUD sem interface gráfica, a fim de aplicar os conceitos que aprendi no curso do professor [Rodrigo Ferreira](https://www.linkedin.com/in/rcaneppele/).
 
 Criei um projeto com descrição e requisitos fictícios para organizar meu desenvolvimento.
 
-**O projeto ainda não está completo considerando a descrição e requisitos que me propus, entretando todos os conceitos vistos no curso foram aplicados até a presente versão**
+**O projeto ainda não está completo considerando a descrição e requisitos que me propus, entretanto todos os conceitos vistos no curso foram aplicados até a presente versão**
 
 ## Conceitos e Aprendizados
 <br>
