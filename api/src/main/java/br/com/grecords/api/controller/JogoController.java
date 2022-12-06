@@ -40,7 +40,7 @@ public class JogoController {
         jogo.atualizarInformacoes(dados);
     }
 
-    @PutMapping("/{id}/reduzirqtd")
+    @PutMapping("/{id}/reduzir-qtd")
     @Transactional
     public void reduzirQuantidade(@PathVariable Long id) {
         Jogo jogo = repository.getReferenceByIdAndAtivoTrue(id);
