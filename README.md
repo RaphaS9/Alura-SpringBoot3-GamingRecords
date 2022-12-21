@@ -19,14 +19,14 @@ Cada jogador possui um email, nome, data de nascimento, cpf e endereço.
 
 ## Requisitos
 
-A exemplo do que foi visto no curso, criei um quadro no trello para organizar o processo de criação e requisitos, que pode ser acessado aqui [quadro - gamingrecords](https://trello.com/b/nn5rTDqG/api-gamingrecords).
+Criei um quadro no trello para organizar o processo de criação e requisitos, que pode ser acessado aqui [quadro - gamingrecords](https://trello.com/b/nn5rTDqG/api-gamingrecords).
 
 ![Quadro do trello](./readmeImgs/quadroTrello.png)
 
 
 ## Aplicação
 
-Como dito anteriormente, esta API tem somente os endpoints para requisições, sem interface gráfica. Então, para testá-la estou utilizando o [insomnia](https://insomnia.rest/download), assim como visto no curso.
+Como dito anteriormente, esta API tem somente os endpoints para requisições, sem interface gráfica. Então, para testá-la estou utilizando o [insomnia](https://insomnia.rest/download).
 
 Na versão atual, a api tem 6 endpoints:
 1. GET /jogos - listar todos jogos ativos ordenados pelo titulo
